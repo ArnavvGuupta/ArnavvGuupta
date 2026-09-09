@@ -113,13 +113,14 @@ class ArnavGupta:
 ### 💻 Backend / Frontend / Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,react,nextjs,mongodb,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,react,nextjs,mongodb,postgresql,firebase,express" />
 </p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
