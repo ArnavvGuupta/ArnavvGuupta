@@ -222,28 +222,6 @@ class ArnavGupta:
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavvGuupta&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArnavvGuupta/ArnavvGuupta/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 # 💡 Current Focus
 
 ```text
