@@ -137,6 +137,7 @@ class ArnavGupta:
 **⚙️ Highlights**
 
 * 🤖 Built an **XGBoost landslide susceptibility model** using terrain, satellite, and historical landslide features.
+* Built an AI chatbot to assist in understanding the data easily using OpenAI model **gpt-5.6-luna** it explains geographical data and other complexity terms regarding geographical conditions based on coordinates
 * 🗺️ Processed **30m DEM data using Rasterio** to derive elevation, slope, aspect, and hillshade.
 * 🛰️ Integrated **Resourcesat-2 LISS-3 satellite imagery** for temporal spectral-change analysis.
 * 🧪 Implemented **spatial hard-negative validation** to reduce geographic data leakage and improve model evaluation.
