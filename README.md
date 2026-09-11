@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/arnavgupta-281886240">
+<a href="https://www.linkedin.com/in/arnav-gupta-281886240/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
