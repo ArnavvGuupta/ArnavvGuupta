@@ -168,23 +168,25 @@ class ArnavGupta:
 
 ---
 
-## 🌿 PlantGuard
+## 🤖 Scoutly
 
-### **AI-Powered Plant Disease Detection**
+### **Agentic AI Browser Research Agent**
 
-`Python` `TensorFlow` `CNN` `Streamlit`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `WebCMD` `Browser Automation` `Firebase` `LLM` `Bing Search`
 
-> **Computer vision system for identifying plant diseases from leaf images.**
+> **Agentic AI research platform that autonomously searches, browses, analyzes, compares, and recommends information from the web.**
 
 **⚙️ Highlights**
 
-* 🧠 Trained a **CNN classifier on 10,849 labelled images**.
-* 🌱 Classified **38 plant disease categories**.
-* 📈 Achieved **91% test accuracy**.
-* ⚡ Optimized inference for **<2 second prediction time**.
-* 🚀 Deployed as an interactive **Streamlit application** with drag-and-drop image uploads.
+* 🤖 Built an **agentic research pipeline** that understands natural-language queries, plans multi-step research, and autonomously executes web investigations.
+* 🌐 Integrated **WebCMD browser automation + web search** to discover, navigate, and analyze real webpages across multiple sources.
+* 🧠 Implemented **AI-powered extraction, evaluation, and filtering** to identify relevant information and eliminate low-quality or irrelevant results.
+* 📊 Built intelligent **comparison and recommendation workflows** for products, hotels, software, courses, travel, and other real-world decisions.
+* 🔗 Delivered **source-backed recommendations** with an interactive research dashboard showing the agent's progress, sources, analysis, and final results.
+* 🚀 Developed as a **SLAB Self-Learning Agent Browser Hackathon project**, combining LLM reasoning, browser automation, and autonomous decision-making.
 
----
+
+
 
 # 📊 GitHub Analytics
 
