@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArnavvGuupta&label=Profile%20Views&color=58A6FF&style=flat-square" />
+
 
 </div>
 
